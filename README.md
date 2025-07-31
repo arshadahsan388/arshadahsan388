@@ -10,7 +10,7 @@
   - 🤖 **Machine Learning Specialization** by [Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
 - 🌱 Currently exploring: Deep Learning, LLMs, and AI-driven apps.
 - 💬 Ask me about **Python, Machine Learning, Flask, or ML Projects**.
-- 📫 Reach me at: [Your Email or Portfolio link]
+- 📫 Reach me at: www.linkedin.com/in/ahsan-arshad388
 - ⚡ Fun fact: I love combining creativity with code to build impactful solutions!
 
 ---
@@ -31,11 +31,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshadahsan388&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-rosy.vercel.app/api?username=arshadahsan388&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arshadahsan388&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=arshadahsan388&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-rosy.vercel.app/api/top-langs/?username=arshadahsan388&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -46,7 +50,7 @@
 
 ### 📌 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahsan-arshad388)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://YOUR_PORTFOLIO_LINK)
+
 
