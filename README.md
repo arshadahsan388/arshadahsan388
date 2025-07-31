@@ -1,12 +1,17 @@
-<!-- 🌊 Liquid Motion Header -->
+
+<!-- 💼 Professional Executive Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=48&pause=1500&center=true&width=850&lines=Muhammad+Ahsan;AI%2FML+Engineer;Shaping+Tomorrow+with+Data" alt="Muhammad Ahsan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=48&pause=1000&center=true&width=850&height=100&color=0052CC,172B4D&background=FFFFFF00&vCenter=true&lines=Muhammad+Ahsan;AI%2FML+Engineer;Driving+Data-Driven+Innovation" alt="Muhammad Ahsan" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-Certified%20Expert-0052CC?style=for-the-badge&logo=academic-cap" alt="Certified Expert" />
+  <img src="https://img.shields.io/badge/🏆-Proven%20Results-172B4D?style=for-the-badge&logo=trophy" alt="Proven Results" />
+  <img src="https://img.shields.io/badge/🤝-Collaborator-0052CC?style=for-the-badge&logo=handshake" alt="Collaborator" />
 </p>
 
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=arshadahsan388&style=flat-square&color=70C1B3" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/arshadahsan388?label=Followers&style=flat-square&color=FF6F61" />
-</p>
+
+
+
 
 ---
 
@@ -28,19 +33,23 @@ I craft end-to-end AI solutions—from data pipelines to deployed services—tha
 
 ---
 
-## 🎨 Tech Canvas
+## 🛠️ Languages and Tools:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" />  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" />  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />  
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch" />  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />  
-  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes" />  
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
 
 ---
