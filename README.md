@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Ahsan!;AI+%2F+ML+Engineer+%F0%9F%A4%96;Always+learning+and+building...+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Ahsan!;AI+%2F+ML+Engineer+%F0%9F%A4%96;learning+and+building...+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
